@@ -1,0 +1,14 @@
+.alert {
+  transition: 0.5s;
+  width: 300px;
+  /* transform: translateX(100%); */
+}
+/* #warning.closed {
+  transform: translateX(0);
+}
+#success.closed {
+  transform: translateX(0);
+}
+#error.closed {
+  transform: translateX(0);
+} */
